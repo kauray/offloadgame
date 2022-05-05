@@ -1,0 +1,6 @@
+//<<scheduler>>R{"latency"}max=?[F dtime=tmax]
+<<scheduler>>R{"jointlatencyenergy"}max=?[F dtime=tmax]
+//<<scheduler>>R{"nopref"}max=?[F dtime=tmax]
+//<<scheduler>>R{"energy"}max=?[F dtime=tmax]
+//<<scheduler>>R{"server"}max=?[F dtime=tmax]
+//<<scheduler>>R{"eqlatency"}max=?[F dtime=tmax]
